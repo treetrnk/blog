@@ -102,6 +102,12 @@
   width: 100%;
 }
 
+.natepic {
+  width: 150px;
+  border-radius: 200px;
+  float: right;
+  padding: 10px;
+}
 
 /**
  * Site footer
@@ -146,8 +152,8 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(75% - (#{$spacing-unit} / 2));
+    width:         calc(75% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
