@@ -9,10 +9,12 @@
 title: 
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my blog, where I state my thoughts as an RPG game master and web 
-  developer. My RPG of choice is Fate Core and I use my skills in web 
-  development to build tools for RPGs in my free time. Stick around if it 
-  sounds interesting!
+  You have found the blog of Nathan Hare. Here you'll find my musings on various
+  topics such as my web development projects and Tabletop RPGs (specifically Fate
+  Core). The other pages on this site are resources to be used along with 
+  tabletop RPGs. I have handcoded them all myself in my free time, so if you 
+  enjoy them and want to see more of them, click the Donate button and buy me a
+  drink. Thanks for reading!
 baseurl: "/rpg/blog" # the subpath of your site, e.g. /blog
 url: "http://nathanhare.net/" # the base hostname & protocol for your site
 twitter_username: treetrnk 
