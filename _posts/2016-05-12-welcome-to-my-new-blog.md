@@ -9,7 +9,7 @@ to tabletop role playing games. I have been teaching myself to play and Game Mas
 [Fate Core](http://www.evilhat.com/home/fate-core) and I will be continuing to learn it and 
 documenting the process.  
 
-### RPGs
+## RPGs
 I currently GM a campaign for my wife and friends, all of which I brought into the TRPG 
 world. We started out playing 
 [Dungeons & Dragons 5E](http://dnd.wizards.com/dungeons-and-dragons/what-is-dd) last year, 
@@ -27,7 +27,7 @@ first [Major Milestone](http://fate-srd.com/fate-core/advancement-change#major-m
 I'll do some recap on the story so far, and I'll try to post Actual Play Reports after each 
 session.
 
-### Web Development
+## Web Development
 
 The last thing I plan to use this blog for is to cover my web development projects. I have
 two on here currently and I plan to be adding more in the future. This blog will give me a 

@@ -8,7 +8,7 @@ categories:
 form-based version of the actual 
 [character sheet](http://www.evilhat.com/home/wp-content/uploads/2013/04/Fate-Core-Character-Sheet.pdf).
 
-### Inspiration
+## Inspiration
 I enjoy playing games on 
 [Tabletop Simulator](http://berserk-games.com/tabletop-simulator/) every once in
 a while. So much so that I made 
@@ -22,12 +22,12 @@ could have their own tablet and keep their character sheet on it.And that is why
 this project. So that you can easily use a Fate Core character sheet on Tabletop 
 Simulator. That is not it's only usage though.
 
-### Usage
+## Usage
 The usage of this program is super simple currently. Basically, you can fill out any of
 the fields to keep track of things and you can increase or decrease the number of mental
 and physical stress boxes you have using the plus and minus signs in the section heading.
 
-### Future
+## Future
 After creating it, I thought of some really cool uses for this program. The first is to 
 add serialization of the sheets content. This would allow someone to fill it out and 
 then copy a link. Punch that link back into your browser and it brings you right back
