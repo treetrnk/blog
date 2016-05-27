@@ -10,12 +10,22 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
-  <link href='https://fonts.googleapis.com/css?family=Montserrat' 
-    rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="{{site.url}}rpg/css/header.css" />
   <script>
     $(function() {
       $('#header').load('{{site.url}}rpg/header.html');
+    });
+
+    //Open external links in new tab/window
+    $(document).ready(function(){
+      $("a").filter(function () {
+        return this.hostname && this.hostname !== location.hostname;
+      }).each(function () {
+        $(this).attr({
+          target: "_blank",
+          title: "Visit " + this.href + " (click to open in a new window)"
+        });
+      });
     });
   </script>
 </head>
