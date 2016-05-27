@@ -4,7 +4,6 @@ title:  "Storygen - Random Story Generator"
 date:   2016-05-27 11:55:25 -0500
 categories: web development
 ---
-
 <img src="{{site.baseurl}}/images/storygen.png" style="float: left" />
 So I wanted to talk about the [random story generator](/rpg/storygen) that I have on 
 this site. If you are interested in seeing the code or improving it, check it out on 
