@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Storygen - Random Story Generator"
+date:   2016-05-27 11:55:25 -0500
+categories: web development
+---
+
+<img src="{{site.baseurl}}/images/storygen.png" style="float: left" />
+So I wanted to talk about the [random story generator](/rpg/storygen) that I have on 
+this site. If you are interested in seeing the code or improving it, check it out on 
+[GitHub]().
+
+### Inspiration
+This project is meant to be something like an online version of 
+[Rory's Story Cubes](https://www.storycubes.com/). The story cubes are dice that are used
+to generate random stories. Each face has a picture on it that can be interpretted 
+however it makes sense to. Game masters sometimes use them to create stories or details
+on the fly. 
+
+Since I am generally pretty cheap, and I use a laptop as my GM screen anyway, I thought I
+would make an online version so that anyone can use it for their RPG sessions, creative 
+writing, and what ever else you can think of. All of the images used were made by the 
+awesome people at [game-icons.net](http://game-icons.net/).
+
+### Usage
+There really isn't much more to this program other than clicking the "New Story" button 
+and clicking on individual images to "re-roll" that image. You can also change the amount 
+images by clicking the plus/minus buttons or by typing in a number and pressing Enter. I 
+did put a limit on the amount of pictures available, because my server can't handle 
+reloading 300 pictures everytime some one needs a new scene.
+
+Interpretting the images can be done however you like, but my suggestion is that you are 
+loose with the meanings. If an image is a dragon, and you are running a game in a 
+cyberpunk setting, it could just signify something large and threatening. Or you could 
+click on the image until you get something more setting appropriate.
+
+### Future Plans
+The main thing I plan on adding to this program is the ability to rearrange the icons. 
+This will allow for easy manipulation of the images so that they can be arranged in a 
+coherent story line. 
