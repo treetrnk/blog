@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why blog? - Introductions"
-date:   2016-05-12 14:55:25 -0400
+date:   2016-05-12 
 categories: 
 ---
 So yes, I have decided to start a blog, and I plan to fill it with things pertaining mostly
