@@ -12,7 +12,7 @@ documenting the process.
 ## RPGs
 I currently GM a campaign for my wife and friends, all of which I brought into the TRPG 
 world. We started out playing 
-[Dungeons & Dragons 5E](http://dnd.wizards.com/dungeons-and-dragons/what-is-dd) last year, 
+[Dungeons & Dragons 5E](http://dnd.wizards.com/dungeons-and-dragons/what-is-dd) last year,
 quickly moved to [Savage Worlds](http://www.peginc.com/product-category/savage-worlds/), 
 and then to [Fate Core](http://www.evilhat.com/home/fate-core). And since Fate is such a 
 different animal than the rest, we're still getting the hang of narrative-based gameplay 
