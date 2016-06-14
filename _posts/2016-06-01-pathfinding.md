@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Actual Play: 02 Pathfinding"
-date:   2016-06-14 6:12:00 -0400 
+date:   2016-06-01 6:12:00 -0400 
 categories: 
 tags: 
 - actual-play

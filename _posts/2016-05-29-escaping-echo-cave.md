@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Actual Play: 01 Escaping Echo Cave"
-date:   2016-06-14 6:07:00 -0400 
+date:   2016-05-29 6:07:00 -0400 
 categories: 
 tags: 
 - actual-play

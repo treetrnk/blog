@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Actual Play: 03 The Battle for Fort Greyspire"
-date:   2016-06-14 6:17:00 -0400 
+date:   2016-06-03 6:17:00 -0400 
 categories: 
 tags: 
 - actual-play
