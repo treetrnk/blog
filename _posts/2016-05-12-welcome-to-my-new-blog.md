@@ -3,6 +3,7 @@ layout: post
 title:  "Why blog? - Introductions"
 date:   2016-05-12 
 categories: 
+tags:
 ---
 So yes, I have decided to start a blog, and I plan to fill it with things pertaining mostly
 to tabletop role playing games. I have been teaching myself to play and Game Master the game 

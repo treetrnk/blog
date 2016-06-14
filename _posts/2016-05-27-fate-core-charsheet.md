@@ -3,6 +3,10 @@ layout: post
 title:  "Project Update: Fate Core Character Sheet"
 date:   2016-05-27 
 categories: 
+tags:
+- web
+- update
+- fate-charsheet
 ---
 [Fate Core Character Sheet](/rpg/fatecore/) is another project that I have made. It is basically just a
 form-based version of the actual 
