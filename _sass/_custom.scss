@@ -25,7 +25,7 @@
   min-width: 175px;
   display: inline-block;
   float: right;
-  @include media-query($on-laptop) {
+  @include media-query($on-palm) {
     max-width: 1000px;
   }
 }
