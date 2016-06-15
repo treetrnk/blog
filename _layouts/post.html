@@ -10,7 +10,15 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    
     {{ content }}
+    <br />
+    
+    <span style="color:#666;">Tags: &nbsp; </span>
+    {% for tag in page.tags %}
+    <a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
+    {% endfor %}
+
   </div>
 
   <a href="{{site.baseurl}}">&lt; back</a><br /><br />
