@@ -18,6 +18,9 @@
   max-width: calc(100% - 200px);
   min-width: 350px;
   display: inline-block;
+  @include media-query($on-palm) {
+    max-width: 100%;
+  }
 }
 
 .sidebar {
