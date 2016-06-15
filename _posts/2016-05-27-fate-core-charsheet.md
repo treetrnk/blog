@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Update: Fate Core Character Sheet"
+title:  "Fate Core Character Sheet"
 date:   2016-05-27 
 categories: 
 tags:
