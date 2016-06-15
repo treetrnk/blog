@@ -1,0 +1,38 @@
+.banner {
+  width: 100%;
+  background: url({{site.baseurl}}/images/banner.png);
+}
+
+.banner img {
+  width: 100%;
+}
+
+.natepic {
+  width: 150px;
+  border-radius: 200px;
+  padding: 10px;
+}
+
+.blog-content {
+  max-width: -webkit-calc(100% - 200px);
+  max-width: calc(100% - 200px);
+  min-width: 350px;
+  display: inline-block;
+}
+
+.sidebar {
+  max-width: 175px;
+  min-width: 175px;
+  display: inline-block;
+  float: right;
+  @include media-query($on-laptop) {
+    max-width: 1000px;
+  }
+}
+
+
+.blog-description {
+  color: #888;
+  text-align: justify;
+  font-size: 10pt;
+}

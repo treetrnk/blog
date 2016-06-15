@@ -9,9 +9,13 @@
 
     <div class="page-content">
       <div class="wrapper">
-        {{ content }}
+        <div class="blog-content">
+          {{ content }}
+        </div>
+        {% include sidebar.html %}
       </div>
     </div>
+
 
     {% include footer.html %}
 

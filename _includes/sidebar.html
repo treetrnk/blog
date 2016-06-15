@@ -1,0 +1,23 @@
+  <div class="sidebar">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <img src="{{site.baseurl}}/images/nathan-hare.png" class="natepic" />
+
+    <ul class="social-media-list">
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+    </ul>
+
+    <p class="blog-description">{{ site.description }}</p>
+
+  </div>
