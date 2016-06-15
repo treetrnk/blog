@@ -10,7 +10,7 @@ tags:
 ---
 # Recap
 
-Fillius, Desmond, Aurora, and Eb arrived to Fort Greyspire just in time to warn the rangers of the coming threat. The goblins of Gilgax Mountain joined forces with the goblins of Echo Cave and attacked the fort using bombs presumably made by Mazul, Kyrie's father. The party and the Greyspire Rangers managed to defend the fort, whittle down the goblin forces, and run the goblins off. 
+Fillius, Desmond, Aurora, and Eb arrived to Fort Greyspire just in time to warn the rangers of the coming threat. The goblins of Gilgax Mountain joined forces with the goblins of Echo Cave and attacked the fort using bombs presumably made by Mazul, Kyrie's father. The party and the Greyspire Rangers managed to defend the fort, whittle down the goblin forces, and run the goblins off. <!--more-->
 
 # The Fight
 

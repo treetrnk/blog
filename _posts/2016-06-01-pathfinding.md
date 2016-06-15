@@ -8,7 +8,7 @@ tags:
 - rpg
 - fate
 ---
-The group, unsure of where they were first looked for a trail of the goblins that had recently left. They followed the trail until they reached a section that Aurora could easily find her way. She led them to her house built atop a tree in the whispering woods. There, the group was able to fill up their stomachs and relax for a little over an hour.
+The group, unsure of where they were first looked for a trail of the goblins that had recently left. They followed the trail until they reached a section that Aurora could easily find her way. She led them to her house built atop a tree in the whispering woods. There, the group was able to fill up their stomachs and relax for a little over an hour.<!--more-->
 
 After their pit stop at Aurora's place, they headed back out to once again find the trail of the goblins. They caught up to them at twilight, finding 18 goblins preparing for the night. Many sat around a campfire and ate a meal while two scouting parties of 4 broke off, one to the eastern edge of the woods, the other to the north east.
 

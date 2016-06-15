@@ -10,7 +10,7 @@ tags:
 ---
 [Fate Core Character Sheet](/rpg/fatecore/) is another project that I have made. It is basically just a
 form-based version of the actual 
-[character sheet](http://www.evilhat.com/home/wp-content/uploads/2013/04/Fate-Core-Character-Sheet.pdf).
+[character sheet](http://www.evilhat.com/home/wp-content/uploads/2013/04/Fate-Core-Character-Sheet.pdf). <!--more-->
 
 ## Inspiration
 I enjoy playing games on 

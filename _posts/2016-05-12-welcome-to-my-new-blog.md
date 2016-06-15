@@ -8,7 +8,7 @@ tags:
 So yes, I have decided to start a blog, and I plan to fill it with things pertaining mostly
 to tabletop role playing games. I have been teaching myself to play and Game Master the game 
 [Fate Core](http://www.evilhat.com/home/fate-core) and I will be continuing to learn it and 
-documenting the process.  
+documenting the process.  <!--more-->
 
 ## RPGs
 I currently GM a campaign for my wife and friends, all of which I brought into the TRPG 
