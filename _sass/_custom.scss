@@ -59,8 +59,18 @@
   float: left;
 }
 
+.post-content img {
+  max-width: 300px;
+  border: 1px solid #999;
+  padding: 7px;
+  margin: 7px;
+  border-radius: 5px;
+}
+
 .share-icon {
   float: right;
   padding: 3px;
   width: 32px;
+  border: none;
+  margin: 0px;
 }

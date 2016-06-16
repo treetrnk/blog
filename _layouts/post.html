@@ -10,26 +10,26 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    
     {{ content }}
-    <br />
-    
-    <a href="https://twitter.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-      <img src="{{ site.baseurl }}/images/twitter-share.png" class="share-icon" />
-    </a>
-    <a href="https://facebook.com/sharer.php?u=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-      <img src="{{ site.baseurl }}/images/facebook-share.png" class="share-icon" />
-    </a>
-    <a href="https://plus.google.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-      <img src="{{ site.baseurl }}/images/googleplus-share.png" class="share-icon" />
-    </a>
-
-    <span style="color:#666;">Tags: &nbsp; </span>
-    {% for tag in page.tags %}
-    <a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
-    {% endfor %}
-
   </div>
+
+  <a href="https://twitter.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
+    <img src="{{ site.baseurl }}/images/twitter-share.png" class="share-icon" />
+  </a>
+  <a href="https://facebook.com/sharer.php?u=http://nathanhare.net{{site.baseurl}}{{page.url}}">
+    <img src="{{ site.baseurl }}/images/facebook-share.png" class="share-icon" />
+  </a>
+  <a href="https://plus.google.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
+    <img src="{{ site.baseurl }}/images/googleplus-share.png" class="share-icon" />
+  </a>
+
+  <span style="color:#666;">Tags: &nbsp; </span>
+  {% for tag in page.tags %}
+  <a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
+  {% endfor %}
+
+  <br /><br /><br />
+
 
   <div id="disqus_thread"></div>
   <script>
