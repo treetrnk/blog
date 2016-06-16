@@ -19,6 +19,8 @@ layout: default
           <li class="excerpt">
             {% if post.excerpt %}
               {{ post.excerpt }} 
+              <a href="{{ post.url | prepend: site.baseurl }}" style="float:right;">
+                read more...</a>
             {% endif %}
             <span style="color:#666;">Tags: &nbsp; </span>
             {% for tag in post.tags %}
