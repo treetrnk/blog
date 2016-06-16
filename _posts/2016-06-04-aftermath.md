@@ -4,7 +4,7 @@ title:  "04 The Aftermath"
 date:   2016-06-04 6:39:00 -0400 
 categories: 
 tags: 
-- actual-play
+- play-report
 - rpg
 - fate
 ---

@@ -4,7 +4,7 @@ title:  "07 A Meeting with Tobias"
 date:   2016-06-13 6:55:00 -0400 
 categories: 
 tags: 
-- actual-play
+- play-report
 - rpg
 - fate
 ---

@@ -4,7 +4,7 @@ title:  "05 Visiting Stonehollow"
 date:   2016-06-07 6:43:00 -0400 
 categories: 
 tags: 
-- actual-play
+- play-report
 - rpg
 - fate
 ---

@@ -4,7 +4,7 @@ title:  "01 Escaping Echo Cave"
 date:   2016-05-29 6:07:00 -0400 
 categories: 
 tags: 
-- actual-play
+- play-report
 - rpg
 - fate
 ---

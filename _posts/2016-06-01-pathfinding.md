@@ -4,7 +4,7 @@ title:  "02 Pathfinding"
 date:   2016-06-01 6:12:00 -0400 
 categories: 
 tags: 
-- actual-play
+- play-report
 - rpg
 - fate
 ---
