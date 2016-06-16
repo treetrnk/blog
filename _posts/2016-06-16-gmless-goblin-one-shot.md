@@ -113,7 +113,7 @@ doused. Some more questions to the dice determined that Fuzzy was home, but was 
 of site. We looked around for her and saw nothing until Oggleward created a magical light to
 illuminate the room. As soon has he did, Fuzzy jumped off of the ledge she was hiding on and 
 attacked. Oggleward ran and threw up a giant illusionary goblin head to scare her, while Kyle
-and Stabby went to town creating advantages. When enough invokes we stacked up, Kyle went in
+and Stabby went to town creating advantages. When enough invokes were stacked up, Kyle went in
 for a devistating final blow with his axe. Fuzzy was statted very low because I didn't have 
 NPC creation down at that point, so it was a pretty quick fight.
 
