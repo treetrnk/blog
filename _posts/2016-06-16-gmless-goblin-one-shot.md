@@ -122,4 +122,4 @@ It was a short game due to time constraints, but even though we didn't do a whol
 was a lot of fun! From what I could tell, everyone felt like they played a huge part in the
 story, and we never actually knew what was going to happen next. It was a bit awkward at
 first since none of us have done any improv classes, but we still had a great time, with
-no prep.
+no prep. We may end up continuing this story since it went so well.
