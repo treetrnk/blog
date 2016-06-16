@@ -16,7 +16,7 @@
 .blog-content {
   max-width: -webkit-calc(100% - 200px);
   max-width: calc(100% - 200px);
-  min-width: 350px;
+  min-width: 300px;
   display: inline-block;
   @include media-query($on-palm) {
     max-width: 100%;
