@@ -10,7 +10,6 @@ tags:
 - no-GM
 - one-shot
 - we-be-goblins
-- update
 ---
 
 About a week ago, the regular RPG group and I got together, but James (who plays Eb), couldn't make it due to his new job. Instead of trying to play the game without Eb, we decided to try a one shot and we tried doing it without a GM. I'll leave the specifics about how we played without a GM for another post. This one is just the play report. So here's how it went.<!--more-->
@@ -57,7 +56,7 @@ use action words.
 I am still working on it, and I plan to make a full document write up of it once I work out the kinks, but this is what I have so far.
 --->
 
-# World Creation
+## World Creation
 
 [<img src="http://static2.paizo.com/image/product/catalog/PZO/PZO9500-5_180.jpeg"
   style="float:right;" />](http://paizo.com/products/btpy8j5w?Pathfinder-Module-We-Be-Goblins)
@@ -73,31 +72,31 @@ mine. The impending issue is that *The blue ball is glowing!". The blue ball is 
 blue gem that was found in the deeper parts of our mine. It is worshiped by some of the 
 religious goblins in the tribe and has recently started glowing for unknown reasons.  
 
-# Character Creation
+## Character Creation
 
-## Kyle
+### Kyle
 
 **Played by:** Andy
 
 Kyle is a brutish goblin known for being good with an axe.
 
-## Oggleward
+### Oggleward
 
 **Played by:** Me! (Nate)
 
-Oggleward is a scrawny goblin and nephew of the cheif, he is an embarrasment to his family
+Oggleward is a scrawny goblin and nephew of the cheif. He is an embarrasment to his family
 since he enjoys to dance tribal dances to seek the great blue ball's blessing. He is not 
 good in combat, but instead has learned some crude illusionary magic from the Blue Ball.
 
-## Stabby Breakjaw
+### Stabby Breakjaw
 
 **Played by:** Carl
 
 Stabby is a berserker type goblin always hungry for a fight.
 
-# Action!
+## Action!
 
-## Scene 1 - The Goblin Camp
+### Scene 1 - The Goblin Camp
 The game started in our camp within the mines. Oggleward was making a windchime from bones
 while Kyle sharpened his axe and Stabby ate by the fire. The chief sent off a final group 
 to guard the enterance of the mines from the humans and then asked for volunteers for a 
@@ -106,7 +105,7 @@ the crowd. The chief caught sight of him though and forced him to join the missi
 it would make a man out of him. The Chief told them that their mission was to cripple the
 humans from the inside and find a way to make them never return to the mine.
 
-## Scene 2 - Fuzzy's Lair
+### Scene 2 - Fuzzy's Lair
 After asking the dice, we determined that there was an alternate enterance to the cave that
 could be used to exit without the notice of the humans. Unfortunately, it was the home of 
 Fuzzy, the giant boar. Hoping Fuzzy wasn't home, we snuck into the lair with torches
@@ -118,7 +117,7 @@ and Stabby went to town creating advantages. When enough invokes we stacked up, 
 for a devistating final blow with his axe. Fuzzy was statted very low because I didn't have 
 NPC creation down at that point, so it was a pretty quick fight.
 
-# Conclusion
+## Conclusion
 It was a short game due to time constraints, but even though we didn't do a whole lot, it 
 was a lot of fun! From what I could tell, everyone felt like they played a huge part in the
 story, and we never actually knew what was going to happen next. It was a bit awkward at
