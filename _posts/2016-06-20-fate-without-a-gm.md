@@ -14,12 +14,12 @@ I recently played in a game where we did not have a GM. You can find the play re
 rules hacked together from other GMless systems I have read, and it went suprisingly 
 well. The other two players and I really enjoyed the game, so I thought I would post 
 them online for others to critique and improve upon. <!--more--> Below is a link to the 
-[google doc write up](https://drive.google.com/open?id=0B_UB90M1F8sqWnZXaHRGa3lkM1k) 
+[google doc write up](https://docs.google.com/document/d/1ColkZw-N6vt5IBpghQEYLDW9JDnAPcHxZ6euhDlVJaY/edit?usp=sharing) 
 (with comments enabled), and below that is a quick summary TL;DR version of what we did 
 to make the game work. Please feel to comment here and on the document with 
 suggestions. And let me know if you like it!
 
-[ **No-GM Fate** <br />  ![No-GM Fate]({{site.baseurl}}/images/no-gm-fate.png)](https://drive.google.com/open?id=0B_UB90M1F8sqWnZXaHRGa3lkM1k)
+[ **No-GM Fate** <br />  ![No-GM Fate]({{site.baseurl}}/images/no-gm-fate.png)](https://docs.google.com/document/d/1ColkZw-N6vt5IBpghQEYLDW9JDnAPcHxZ6euhDlVJaY/edit?usp=sharing)
 
 ---
 
