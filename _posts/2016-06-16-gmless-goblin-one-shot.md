@@ -14,48 +14,6 @@ tags:
 
 About a week ago, the regular RPG group and I got together, but James (who plays Eb), couldn't make it due to his new job. Instead of trying to play the game without Eb, we decided to try a one shot and we tried doing it without a GM. I'll leave the specifics about how we played without a GM for another post. This one is just the play report. So here's how it went.<!--more-->
 
-<!---
-# No GM Rules
-
-In order to play without a GM, we obviously needed to change a few things about Fate. It 
-relies on a GM, but not as much as other systems do, so I thought wouldn't be too hard to
-do. I had been intrigued by the idea of playing GMless for a while, but after reading 
-systems like [Mythic GM Emulator](http://www.mythic.wordpr.com/page14/page9/page9.html), [Fateless](http://www.rpgnow.com/product/151493/FateLess), and [nihless](https://www.reddit.com/r/rpg/comments/3ehsf8/nihiless_a_gmless_rulesmoderate_system_designed/), I was still looking
-for something that had that core Fate play style and didn't add a ton of new rules. So after 
-thinking about it a lot, I came to some conclusions on how to do it.
-
-* The GM doesn't roll. Only difficulties are set
-* No GM Fate Points
-* Refresh is reduced to 2 to compensate for the lack of GM Fate Points
-* Compels always give Fate Points from the general pool and not from a specific player
-* All opposition is determined by the group, going up or down from the highest skill based on difficulty
-* A framing card is past around at the end of every scene, whoever has a framing card sets the scene, picks a purpose, location, present characters, and an environment and obstacle aspect.
-* If you ever don't feel comfortable just adding to the scene once it is framed, you can ask the dice a yes or no question
-  * Set the difficulty up or down from 0 based on the likeliness
-  * Roll 4 fate dice
-    * **Success with style**: Yes, and...
-    * **Success**: Yes
-    * **Tie**: Yes, but... OR No, but...
-    * **Fail**: No
-    * **Fail Miserably** (by 3 or more): No, and...
-* NPCs are played by whoever is not talking to them at the time
-* Create NPCs like this: *Nasty Goblin lvl3*
-  * "Nasty Goblin" is the High Concept
-  * "lvl3" determines the skills
-    * NPCs have two skills, "Good At" and "Decent At"
-    * The "Good At" skill level is equal to the NPCs level (+3 in this case)
-    * The "Decent At" skill level is half (rounded up) of the NPCs level (+2 in this case)
-  * "lvl3" also determines stress and consequences
-    * Levels 1, 2, and 3 are for Average (+1), Fair (+2), and Good (+3) Nameless NPCs, respectively
-    * A four and up is a main NPC. Levels above 4 can represent extra stress boxes and/or consequences
-* Some other systems have "Action Words" like Dispute, Veto, Pause, etc. These are useful,
-but not always necessary if your group knows eachother and knows how to jump in and out of
-context easily. I assume that the more you play without a GM, the less you actually need to 
-use action words.
-
-I am still working on it, and I plan to make a full document write up of it once I work out the kinks, but this is what I have so far.
---->
-
 ## World Creation
 
 [<img src="http://static2.paizo.com/image/product/catalog/PZO/PZO9500-5_180.jpeg"
@@ -63,8 +21,8 @@ I am still working on it, and I plan to make a full document write up of it once
 
 I told the group about the 
 [We Be Goblins](http://paizo.com/products/btpy8j5w?Pathfinder-Module-We-Be-Goblins)
-adventures released on [Free RPG day](http://www.freerpgday.com/), and they seemed interested in it. I mentioned that 
-we could try a goblin PC game, and they jumped on it.
+adventures released on [Free RPG day](http://www.freerpgday.com/), and they seemed 
+interested in it. I mentioned that we could try a goblin PC game, and they jumped on it.
 
 The world creation went pretty quick. We are goblins in a tribe that took over an abandoned 
 mine. Our current issue is that *The Humans are Expanding" and starting to venture into our 
