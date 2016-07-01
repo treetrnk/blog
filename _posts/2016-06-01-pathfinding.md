@@ -19,3 +19,12 @@ The group tried to sneak around the goblins but Eb accidentally caught their att
 Upon questioning the goblins, the group found that they were for the Gilgax goblin tribe to light the torches on the mountain side. When they saw the torches, all of the goblins will join together and attack Fort Greyspire. The group tied up the two goblins and ran to Fort Greyspire to warn them of the attack. A half-orc ranger was on watch atop the wall and questioned them before opening the gate. Aurora then pulled back her hood and looked up at the ranger who immediately said,"Aurora. Is that you?". He then commanded that the gates be open immediately.
 
 Upon entering, no more was said to Aurora about the transaction due to the urgency of their visit. The group explained the details of the coming goblin attack and the half orc rallied the rangers in the fort to prepare for battle. The group walked back out to the top of the wall to prepare and heard the sounds of goblins screaming all around. As they looked, they could now see torches on the mountain side and in the forest headed straight for them.
+
+---
+
+If you are jumping in on the middle of this story, check out the 
+<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+
+<a href="{{site.baseurl}}/2016/06/03/battle-for-fort-greyspire.html" class="right">Next Session &#9654;</a>
+<a href="{{site.baseurl}}/2016/05/29/escaping-echo-cave.html">&#9664; Previous Session</a>
+<br />

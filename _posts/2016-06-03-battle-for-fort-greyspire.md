@@ -49,3 +49,12 @@ Roughly from left to right in the pictures above:
 * Duck & Cover
 * The dangerous wilds
 
+---
+
+If you are jumping in on the middle of this story, check out the 
+<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+
+<a href="{{site.baseurl}}/2016/06/04/aftermath.html" class="right">Next Session &#9654;</a>
+<a href="{{site.baseurl}}/2016/06/01/pathfinding.html">&#9664; Previous Session</a>
+<br />
+

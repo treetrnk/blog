@@ -76,3 +76,12 @@ my game [without a GM]({{site.baseurl}}/2016/06/20/fate-without-a-gm.html). Othe
 that, it went really well. **Has anyone else tried the [Fate Adventure Worksheet
 ](https://mechanteanemone.wordpress.com/2014/01/14/fate-adventure-worksheet/)?
 How did it go?**
+
+---
+
+If you are jumping in on the middle of this story, check out the 
+<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+
+<!--<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>-->
+<a href="{{site.baseurl}}/2016/06/14/real-tobias.html">&#9664; Previous Session</a>
+<br />
