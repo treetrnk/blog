@@ -45,7 +45,7 @@ city.
 
 Due to time constraints, we only got to the part of the adventure where the PCs had
 just jumped over the wall into the garden surrounding the tower, but we still had a 
-great chance to try out Tabletop Simulator for Fate.
+great chance to try it out, and even went through a full conflict.
 
 ## Pros
 ---
@@ -77,7 +77,8 @@ alt="Map of the garden surrounding the tower" />
 
 There are a ton of tools to use in game. We used the drawing tool to draw out a map
 on the table. We also used built in props to create the feel of the location. 
-Notecards were used for scene aspects and such. 
+Notecards were used for scene aspects and such and the in-game voice chat made it very
+easy to communicate. 
 
 ### Price Point
 
