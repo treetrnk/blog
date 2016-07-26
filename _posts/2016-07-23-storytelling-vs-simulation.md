@@ -21,7 +21,8 @@ they are rightfully called simulation and storytelling RPGs because that is what
 However, what that actually means was never clear to me or others in my gaming group during our 
 transition to storygaming.
 
-[<img src="http://savingthrowshow.com/wp-content/uploads/2014/12/Roll1.jpg" class="right" />
+[<img src="http://savingthrowshow.com/wp-content/uploads/2014/12/Roll1.jpg" class="right" 
+alt="D&D Natural One" />
 ](http://savingthrowshow.com/wp-content/uploads/2014/12/Roll1.jpg)
 In simulation-based RPGs, the focus is
 very much on rules and simulation. There is a story, but the rulebooks are filled with 
@@ -39,27 +40,29 @@ The mechanics, combined with player decisions make up the players' side of the s
 not to say that this is a bad thing. It is not. Many people, including me, love playing games 
 in this way. It is just a different approach.
 
-[<img src="http://memecreator.org/static/images/memes/4109587.jpg" class="left" />
-](http://memecreator.org/static/images/memes/4109587.jpg)
+[<img src="{{site.baseurl}}/images/compel-meme.png" class="left" alt="Fate RPG Compel" />
+]({{site.baseurl}}/images/compel-meme.png)
 Fate, on the other hand, focuses on the story. Instead of having unique rules to simulate every 
 situation, you have generalized rules. These generalized rules work because they are rules to 
 create story rather than simulate a reality. The Fate Point Economy focuses on creating a story 
 that is 
 interesting and fun. Mechanics like compels, invokes, and concessions are all there to make
-for a better story. In Fate, the GM and the players are actively talking about the story you are 
-creating as you are creating it, so that it is a better one. Having the story front and center 
+for a better story. In Fate, the GM and the players are actively talking about the story they are 
+creating as they create it, in order to make it a better. Having the story front and center 
 means that you often know more about the story than you would in a simulation game, but knowing 
 more is okay. This type of "metagaming" in Fate is encouraged, because it increases investment in
-the story. Instead worrying about if the heroes will prevail, the players and the GM alike are
+the story. Instead of worrying about if the heroes will prevail, the players and the GM alike have
 the opportunity to alter the outcomes in a balanced way, based on what they think would make for 
 a good story. Rather than reacting to the mechanics and randomness of the dice, in Fate, everyone 
-at the table is actively telling a story together. 
+at the table is given authority over the story to add in the highs and lows when it is 
+interesting. 
 
 Basically, my conlcusion is that simulation RPGs build their rules specifically to simulate a 
 fictional reality, while Fate has rules designed to directly affect and create a great story. 
-Now again, I don't write this to say one type of RPG is better than the other. My preferences may
+They both ultimately do the same thing, but they do it in very different ways. Now again, 
+I don't write this to say one type of RPG is better than the other. My preferences may
 be clear, but it is just that - a preference. Both styles have their place 
 and both shine in different ways. Play whatever your group enjoys! For those who may be 
-struggling with this same thought process, I hope this helps. **What do you think makes the
-transition so difficult? What has helped you understand the differences? Let me know in the 
-comments below.** 
+struggling with this same thought process, I hope this helps. **What do you think makes 
+transitioning from simulation to storytelling so difficult? What has helped you understand 
+the differences? Let me know in the comments below.** 
