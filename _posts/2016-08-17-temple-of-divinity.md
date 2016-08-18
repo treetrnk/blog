@@ -4,10 +4,10 @@ title:  "10 The Temple of Divinity"
 date:   2016-08-17 10:28:22 -0400 
 categories: 
 tags: 
-- RPG
-- Fate
-- Play Report
-- The Relics of Acyrus
+- rpg
+- fate
+- play report
+- the relics of acyrus
 ---
 
 ## The Story

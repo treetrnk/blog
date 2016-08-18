@@ -4,9 +4,10 @@ title:  "08 The Real Tobias Bender"
 date:   2016-06-14 7:03:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
+- play report
+- the relics of acyrus
 ---
 Last time, the group finally got a chance to talk to the real Tobias Bender. After hearing the truth about everything, they decided to head into the tunnels in search of the artifact that the Gilgax Goblins and the Doppelganger seem to have been after. The first challenge in finding the artifact was a large stone golem protecting the enterance to the tunnels. <!--more-->He gave the group a riddle, which took some time to solve. Aurora came up with the answer and when it was stated to the golem, he placed the threatening stone slab back into the wall and the door beneath him opened.
 

@@ -4,9 +4,10 @@ title:  "02 Pathfinding"
 date:   2016-06-01 6:12:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
+- play report
+- the relics of acyrus
 ---
 The group, unsure of where they were first looked for a trail of the goblins that had recently left. They followed the trail until they reached a section that Aurora could easily find her way. She led them to her house built atop a tree in the whispering woods. There, the group was able to fill up their stomachs and relax for a little over an hour.<!--more-->
 

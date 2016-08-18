@@ -4,9 +4,10 @@ title:  "05 Visiting Stonehollow"
 date:   2016-06-07 6:43:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
+- play report
+- the relics of acyrus
 ---
 
 [<img src="{{site.baseurl}}/images/hook-horror-attack.jpg" style="Float:right;width:400px;padding:7px;" />]({{site.baseurl}}/images/hook-horror-attack.jpg)

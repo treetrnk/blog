@@ -4,9 +4,10 @@ title:  "07 A Meeting with Tobias"
 date:   2016-06-13 6:55:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
+- play report
+- the relics of acyrus
 ---
 [<img src="{{site.baseurl}}/images/meeting-with-tobias.jpg" style="Float:right;width:400px;padding:7px;" />]({{site.baseurl}}/images/meeting-with-tobias.jpg)
 The group arrived at Tobias's house at dusk in hopes of finding some answers. The house was heavily gaurded after Aurora's break in earlier that day, but Tobias seemed rather friendly. They talked with Tobias asking about the food shortage, the sigils in the mountain, the tunnels below it, and the artifact that the goblins were after. <!--more-->Tobias provided much information and even offered to bring them to the enterance of the tunnels behind Beowood where a large golem stands guard.

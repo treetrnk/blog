@@ -4,9 +4,10 @@ title:  "01 Escaping Echo Cave"
 date:   2016-05-29 6:07:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
+- play report
+- the relics of acyrus
 ---
 The players found themselves tied up. Desmond was the first to break free. He used magic to make some fire and burn the rope. Unsure of whether he could trust Eb and Filius, he untied Aurora first and tried using his magic to shape shift a sharp edge onto a couple of rocks. <!--more-->Aurora then snuck up to the sleeping goblin and tried to kill him, but not well-versed in hand to hand combat, Aurora fumbled the rock and instead only woke up the goblin. The goblin rose up and picked up his spear. A bit scared of the group he was unsure whether or not he wanted to fight or flee.
 

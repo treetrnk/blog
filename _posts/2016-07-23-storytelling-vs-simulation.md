@@ -6,6 +6,7 @@ categories:
 tags: 
 - rpg
 - fate
+- thoughts
 ---
 
 I've been thinking recently about traditional simulation-based RPGs like Dungeons & Dragons, 

@@ -4,12 +4,12 @@ title:  "A GMless Goblin One-shot"
 date:   2016-06-16 12:08:00 -0400 
 categories: 
 tags: 
-- play-report
 - rpg
 - fate
-- no-GM
-- one-shot
-- we-be-goblins
+- play report
+- no gm
+- oneshot
+- we be goblins
 ---
 
 About a week ago, the regular RPG group and I got together, but James (who plays Eb), couldn't make it due to his new job. Instead of trying to play the game without Eb, we decided to try a one shot and we tried doing it without a GM. I'll leave the specifics about how we played without a GM for another post. This one is just the play report. So here's how it went.<!--more-->

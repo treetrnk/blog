@@ -6,7 +6,7 @@ categories:
 tags: 
 - rpg
 - fate
-- no-GM
+- no gm
 ---
 
 I recently played in a game where we did not have a GM. You can find the play report 

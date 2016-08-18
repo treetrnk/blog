@@ -6,7 +6,8 @@ categories:
 tags: 
 - rpg
 - fate
-- play-report
+- play report
+- the relics of acyrus
 ---
 
 ## GM Notes

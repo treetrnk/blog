@@ -7,7 +7,7 @@ tags:
 - rpg
 - fate
 - review
-- tabletop-simulator
+- tabletop simulator
 ---
 
 [<img src="http://berserk-games.com/new/wp-content/uploads/2015/02/TTS-Trans350.png" class="right" />
