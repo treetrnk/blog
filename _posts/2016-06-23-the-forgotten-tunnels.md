@@ -83,6 +83,6 @@ How did it go?**
 If you are jumping in on the middle of this story, check out the 
 <a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<!--<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>-->
+<a href="{{site.baseurl}}/2016/08/17/temple-of-divinity.html" class="right">Next Session &#9654;</a>
 <a href="{{site.baseurl}}/2016/06/14/real-tobias.html">&#9664; Previous Session</a>
 <br />
