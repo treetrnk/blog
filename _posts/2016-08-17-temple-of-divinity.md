@@ -35,6 +35,9 @@ bottom of the note was Old Man Berkle's signature.
 
 ### An Old Friend
 
+[<img src="{{site.baseurl}}/images/new-setup.jpg" class="right" />
+]({{site.baseurl}}/images/new-setup.jpg)
+
 The group continued forward to a break in the tunnels. A soft red glow dimly lit the
 opening. Filius crept ahead to peer out of the tunnel and saw that a section of the
 of the tunnel collapsed into a large cavern with bioluminescent red mushrooms scattered 
@@ -74,6 +77,9 @@ volume, but were not sure what to think of it. That is, until they reached the f
 room.
 
 ### The Shadow Knight
+
+[<img src="{{site.baseurl}}/images/shrine-of-divinity.jpg" class="left" />
+]({{site.baseurl}}/images/shrine-of-divinity.jpg)
 
 The smoke was thick in this room. A statue of a sphinx stood 25 feet tall in the middle 
 of the room and the alter in front of them, where the artifact was expected to be, laid
