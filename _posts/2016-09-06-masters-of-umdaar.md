@@ -25,7 +25,7 @@ campaign. The other player was a guy named Fred.<!--more-->
 
 ## The PCs
 Andy decided to go with a Sneaky undead mage named Abraxas. Fred went with a Flashy light being 
-named CG-18 who somehow evolved a long time ago from being a program used to create special 
+named CG-13 who somehow evolved a long time ago from being a program used to create special 
 effects for movies. He had a lot of fun narrating every action he did as some kind of movie trope.
 
 ## The Story
