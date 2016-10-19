@@ -28,7 +28,7 @@ the lock. The stone slid away with sound of grinding rock and revealed a new tun
 deeper into the darkness.
 
 As they headed down the tunnel, a blue light appeared directly in front of Desmond, and
-out of it popped a scroll. The scroll unravelled and delivered Desmond with some information
+out of it popped a scroll. The scroll unraveled and delivered Desmond with some information
 on using the artifact of conjuration that he carried in his pocket. With the artifact, he
 now knew how to teleport himself, and those touching him, back to Fort Greyspire. At the 
 bottom of the note was Old Man Berkle's signature.
@@ -44,11 +44,11 @@ of the tunnel collapsed into a large cavern with bioluminescent red mushrooms sc
 about the walls. Filius also spotted two goblins sneaking away into the continuation of 
 the tunnel on the other side of the rubble. 
 
-As he did, a kackle echoed out through the cavern. A party of gnoll slavers approached
+As he did, a cackle echoed out through the cavern. A party of gnoll slavers approached
 the intersection with one dwarven monk in tow behind them. Eb quickly recognized the dwarf
 to be his buddy, Mafol, that trained with him in the Power of Temperance. Without a second
 to think, he cast a spell to cover the floor around the gnolls in ice. A battle ensued
-and the adventurers easily took down the gnolls with arrows and some conjurationi magic. 
+and the adventurers easily took down the gnolls with arrows and some conjuration magic. 
 In the confusion, Mafol, was able to sneak away and hide until the fight was over.
 
 ### The Temple of Divinity
@@ -58,7 +58,7 @@ continued on, down the rest of the tunnel until they reached a structure resembl
 kind of temple. Along the front wall was a phrase written in ancient elven: "See what
 remains unseen". The group entered to find a bottomless pit keeping them from continuing. 
 With the elvish phrase running through their heads, Eb called forth a rain storm in the
-room. The rain fell straighti down into the pit except for one narrow strip, as if there were 
+room. The rain fell straight down into the pit except for one narrow strip, as if there were 
 an invisible bridge. The party carefully tested and then walked across this bridge to 
 the far end of the room, where another complication was found.
 
@@ -66,8 +66,8 @@ A pair of human legs laid on the ground and a narrow corridor was splattered wit
 but no threat was visible. After some debate, the group decided there must be a
 pressure plate somewhere, so they threw the legs back into the corridor and two stone slabs 
 slid out of the walls and slammed together. Discovering the location of the trap and its
-pressure plate on the floor, the group carefully bypassed it and found another peice of 
-the human body: an arm. In its hand was a book diagraming the puzzles and traps in the 
+pressure plate on the floor, the group carefully bypassed it and found another piece of 
+the human body: an arm. In its hand was a book diagramming the puzzles and traps in the 
 temple, although, the stone slabs were illustrated a little higher than they turned 
 out to be.
 
@@ -94,7 +94,7 @@ second." the figure said as he gave a malicious chuckle.
 ## GM Notes
 
 This session may have been our best yet. I have been doing a lot of learning as a GM for
-the past couple of months. Unfortunately, due to everyone's sechedules, I haven't had
+the past couple of months. Unfortunately, due to everyone's schedules, I haven't had
 a lot of chances to put that learning to use, until last night that is. For this session,
 I really focused on engaging the players and making it fun for them. I know, this is GMing
 101 advice here, but it took me some time to figure out how to do that in Fate. I really

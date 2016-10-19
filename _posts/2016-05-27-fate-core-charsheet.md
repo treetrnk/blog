@@ -36,7 +36,7 @@ After creating it, I thought of some really cool uses for this program. The firs
 add serialization of the sheets content. This would allow someone to fill it out and 
 then copy a link. Punch that link back into your browser and it brings you right back
 to where you left off. I am confident that I can do this, but I never have before, so 
-it will be a learning process to impliment. 
+it will be a learning process to implaement. 
 
 Another thing that I would like to add is a dice roller. I hope to make the skill levels
 clickable. When you click them, four fate dice are rolled and the skill level is added

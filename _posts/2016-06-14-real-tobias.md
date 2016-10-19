@@ -9,9 +9,9 @@ tags:
 - play report
 - the relics of acyrus
 ---
-Last time, the group finally got a chance to talk to the real Tobias Bender. After hearing the truth about everything, they decided to head into the tunnels in search of the artifact that the Gilgax Goblins and the Doppelganger seem to have been after. The first challenge in finding the artifact was a large stone golem protecting the enterance to the tunnels. <!--more-->He gave the group a riddle, which took some time to solve. Aurora came up with the answer and when it was stated to the golem, he placed the threatening stone slab back into the wall and the door beneath him opened.
+Last time, the group finally got a chance to talk to the real Tobias Bender. After hearing the truth about everything, they decided to head into the tunnels in search of the artifact that the Gilgax Goblins and the Doppelganger seem to have been after. The first challenge in finding the artifact was a large stone golem protecting the entrance to the tunnels. <!--more-->He gave the group a riddle, which took some time to solve. Aurora came up with the answer and when it was stated to the golem, he placed the threatening stone slab back into the wall and the door beneath him opened.
 
-Travelling through the tunnels was uneventful for several hours until the group found a crevice in the wall with some kind of tracks leading out of it. Upon further investigation, and Eb fire-blasting a bat that jumped out at him, the group found a nomadic group of Gnolls at the far end of an enormous cavern room. Intent on not provoking the gnolls, the group then continued on down the tunnel in the direction of the tracks.
+Traveling through the tunnels was uneventful for several hours until the group found a crevice in the wall with some kind of tracks leading out of it. Upon further investigation, and Eb fire-blasting a bat that jumped out at him, the group found a nomadic group of Gnolls at the far end of an enormous cavern room. Intent on not provoking the gnolls, the group then continued on down the tunnel in the direction of the tracks.
 
 ---
 

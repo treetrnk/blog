@@ -19,6 +19,9 @@ orchestrating all of the evil plots with the goblins and in Beowood. The
 was spent getting to the Temple of Divinity and since
 time was running short, we left the final scene for our next meeting.<!--more-->
 
+[<img src="{{site.baseurl}}/images/shadow-knight-and-friends.png" class="right" />
+]({{site.baseurl}}/images/shadow-knight-and-friends.png)
+
 The heroes left off in the Temple of Divinity. They overcame all of the temple's
 various traps and puzzles and reached the final room where the Relic of Divinity
 was said to be. However, the relic was missing and the room was flooded with a
@@ -45,6 +48,9 @@ the two relics in the room, but he was about 3 zones from where the PCs started
 and in cover behind the statue's head. The PCs had to be in a zone right next to
 statue to even attempt a shot at him. The goblin archers mostly laid down cover
 fire to keep the heroes at the far end of the room.
+
+[<img src="{{site.baseurl}}/images/shadow-knight-setup.png" class="left" />
+]({{site.baseurl}}/images/shadow-knight-setup.png)
 
 While that was going on I also had 4 goblins on the ground (2 mobs of 2). These
 guys were also pretty easy kills, but they hung back and took on PCs

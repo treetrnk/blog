@@ -11,7 +11,7 @@ tags:
 
 I recently played in a game where we did not have a GM. You can find the play report 
 [here]({{site.baseurl}}/2016/06/16/gmless-goblin-one-shot.html). I wrote up some 
-rules hacked together from other GMless systems I have read, and it went suprisingly 
+rules hacked together from other GMless systems I have read, and it went surprisingly 
 well. The other two players and I really enjoyed the game, so I thought I would post 
 them online for others to critique and improve upon. <!--more--> Below is a link to the 
 [google doc write up](https://docs.google.com/document/d/1ColkZw-N6vt5IBpghQEYLDW9JDnAPcHxZ6euhDlVJaY/edit?usp=sharing) 

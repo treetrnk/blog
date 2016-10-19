@@ -42,7 +42,7 @@ Kyle is a brutish goblin known for being good with an axe.
 
 **Played by:** Me! (Nate)
 
-Oggleward is a scrawny goblin and nephew of the cheif. He is an embarrasment to his family
+Oggleward is a scrawny goblin and nephew of the chief. He is an embarrassment to his family
 since he enjoys to dance tribal dances to seek the great blue ball's blessing. He is not 
 good in combat, but instead has learned some crude illusionary magic from the Blue Ball.
 
@@ -55,16 +55,16 @@ Stabby is a berserker type goblin always hungry for a fight.
 ## Action!
 
 ### Scene 1 - The Goblin Camp
-The game started in our camp within the mines. Oggleward was making a windchime from bones
+The game started in our camp within the mines. Oggleward was making a wind chime from bones
 while Kyle sharpened his axe and Stabby ate by the fire. The chief sent off a final group 
-to guard the enterance of the mines from the humans and then asked for volunteers for a 
+to guard the entrance of the mines from the humans and then asked for volunteers for a 
 special mission. Kyle and Stabby quickly volunteered while Oggleward tried to hide among 
 the crowd. The chief caught sight of him though and forced him to join the mission in hopes
 it would make a man out of him. The Chief told them that their mission was to cripple the
 humans from the inside and find a way to make them never return to the mine.
 
 ### Scene 2 - Fuzzy's Lair
-After asking the dice, we determined that there was an alternate enterance to the cave that
+After asking the dice, we determined that there was an alternate entrance to the cave that
 could be used to exit without the notice of the humans. Unfortunately, it was the home of 
 Fuzzy, the giant boar. Hoping Fuzzy wasn't home, we snuck into the lair with torches
 doused. Some more questions to the dice determined that Fuzzy was home, but was hiding out 
@@ -72,7 +72,7 @@ of site. We looked around for her and saw nothing until Oggleward created a magi
 illuminate the room. As soon has he did, Fuzzy jumped off of the ledge she was hiding on and 
 attacked. Oggleward ran and threw up a giant illusionary goblin head to scare her, while Kyle
 and Stabby went to town creating advantages. When enough invokes were stacked up, Kyle went in
-for a devistating final blow with his axe. Fuzzy was statted very low because I didn't have 
+for a devastating final blow with his axe. Fuzzy was statted very low because I didn't have 
 NPC creation down at that point, so it was a pretty quick fight.
 
 ## Conclusion

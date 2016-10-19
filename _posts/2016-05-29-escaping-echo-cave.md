@@ -17,7 +17,7 @@ Eb gave chase while the others stayed in the room, cut down Filius and found a s
 
 The group reunited and found Flora, Aurora's fox companion, and their gear/weapons in the barracks room as well. They asked Glurg some questions about what he knew, and he told them (upon asking the right questions) that Mazul had been to the cavern and that his daughter Kyrie was still there. Glurg led them to find Kyrie down a smaller tunnel. 
 
-In the tunnel, they saw Kyrie, a gnomish lady with black hear to her shoulders. She was wearing a tattered robe covered in dirt and was very skinny. She was timid at first, because the group entered the room with a goblin, but her fears were eased by a bit Filius' charm. She told them that there was a large number of goblins in the cave until very recently and she can't be sure but she thinks she heard that they were headed to Fort Greyspire. The group mentioned interest in finding her father as well, and without much information, she can only hope that he is travelling with the goblins to Fort Greyspire and that he is alive and healthy.
+In the tunnel, they saw Kyrie, a gnomish lady with black hear to her shoulders. She was wearing a tattered robe covered in dirt and was very skinny. She was timid at first, because the group entered the room with a goblin, but her fears were eased by a bit Filius' charm. She told them that there was a large number of goblins in the cave until very recently and she can't be sure but she thinks she heard that they were headed to Fort Greyspire. The group mentioned interest in finding her father as well, and without much information, she can only hope that he is traveling with the goblins to Fort Greyspire and that he is alive and healthy.
 
 ---
 

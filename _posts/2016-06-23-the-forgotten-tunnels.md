@@ -20,7 +20,7 @@ parts of the [Fate Core rule book
 Hanz](http://www.evilhat.com/home/wp-content/uploads/Book_of_Hanz.epub) which is a 
 collection of the thoughts of Robert Hanz as he was figuring out the Fate system. <!--more-->
 
-The Book of Hanz really was a great read and I will be reccomending it from now on to any 
+The Book of Hanz really was a great read and I will be recommending it from now on to any 
 newbies that are looking for help. In particular, the article on failure is a great one. It 
 talks about failure in Fate, the fact that it should be somewhat common, and how continue 
 the story through failure. One thing that I had been doing wrong was setting difficulties 
@@ -30,11 +30,11 @@ session and the following ones accordingly.
 
 ## The Story
 
-The PCs, still travelling in the tunnels under Gilgax mountain, had been walking for about
+The PCs, still traveling in the tunnels under Gilgax mountain, had been walking for about
 half a day. That is the roughly the same amount of time it takes to walk from Beowood to 
 Fort Greyspire, so they figured they must be close. Suddenly up ahead, they saw a faint 
 light. It was dim at first but steadily grew brighter. It then stopped and a low grumble 
-of stone moving could be heard. The sound then stopped and the light disapeared.
+of stone moving could be heard. The sound then stopped and the light disappeared.
 
 [<img src="{{site.baseurl}}/images/spider-attack.jpg" class="right" />
 ]({{site.baseurl}}/images/spider-attack.jpg)
