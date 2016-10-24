@@ -79,7 +79,7 @@ navigate. Either way, he is stuck sitting there not knowing where to go.
 Now, the reason this is an interesting scene is not because of the 
 decision to go right or left. Gandalf ends up eventually taking the path that 
 smells better because it was so inconsequential. Instead, this scene is
-interesting because it gives Frodo a chance to notice that Golem is following 
+interesting because it gives Frodo a chance to notice that Gollum is following 
 them.
 * *Montage of heroes walking*
 * **Scene 3 - Balin's Tomb:** The heroes enter the tomb of Balin, Gimli's cousin,
