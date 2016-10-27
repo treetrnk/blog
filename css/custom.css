@@ -4,6 +4,10 @@ body {
   padding-bottom: 20px;
 }
 
+p, body {
+  font-size: 15px;
+}
+
 body .jumbotron {
   background-color: none;
   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../images/shadow-knight-banner.jpg');
@@ -111,3 +115,33 @@ body .jumbotron {
 hr {
   border: 1px solid #ddd;
 }
+
+/* GOOGLE SEARCH RESTYLE */
+
+.cse-branding-form {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+div.gsc-control-cse, .___gcse_0 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+input.gsc-input {
+  height: 30px;
+  font-size: 16px;
+  background-image: none !important;
+  background-color: #ffffff !important;
+}
+
+input.gsc-search-button,
+.gsc-clear-button {
+  display: none;
+}
+
+#googlesearch {
+  height: 50px;
+  overflow: hidden;
+}
+
