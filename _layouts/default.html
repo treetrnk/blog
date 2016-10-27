@@ -7,13 +7,15 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {% include sidebar.html %}
-        <div class="blog-content">
+    <div class="container">
+      <section class="col-md-9">
           {{ content }}
+      </section>
+      <aside class="col-md-3">
+        <div class="col-md-10 col-md-offset-2">
+          {% include sidebar.html %}
         </div>
-      </div>
+      </aside>
     </div>
 
 

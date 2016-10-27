@@ -2,9 +2,13 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <img src="{{site.baseurl}}/images/nathan-hare.png" class="natepic" />
+    <img src="{{site.baseurl}}/images/nathan-hare.png" class="img-responsive img-circle" />
 
-    <ul class="social-media-list">
+    <i class="fa fa-github"></i>
+    <i class="fa fa-twitter"></i>
+
+    <!--
+    <ul class="social-media-list list-unstyled">
       {% if site.github_username %}
       <li>
         {% include icon-github.html username=site.github_username %}
@@ -17,6 +21,7 @@
       </li>
       {% endif %}
     </ul>
+    -->
 
     <p class="blog-description">{{ site.description }}</p>
 

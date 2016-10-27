@@ -1,0 +1,113 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+body .jumbotron {
+  background-color: none;
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../images/shadow-knight-banner.jpg');
+  background-size: cover;
+  background-repeat: none;
+  background-attachment: fixed;
+  background-position: 0 -50px;
+  height: calc(100%-50px) !important;
+}
+
+.jumbotron .container h1, .jumbotron .container p {
+  color: #ffffff !important;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.social-media-list .icon.icon--github {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+/* OLD CUSTOM BELOW */
+/*
+.banner {
+  width: 100%;
+  background: url({{site.baseurl}}/images/banner.png);
+}
+
+.banner img {
+  width: 100%;
+}
+
+.natepic {
+  width: 150px;
+  border-radius: 500px;
+  padding: 10px;
+} 
+
+.blog-content {
+  max-width: -webkit-calc(100% - 200px);
+  max-width: calc(100% - 200px);
+  min-width: 300px;
+  display: inline-block;
+  @include media-query($on-palm) {
+    max-width: 100%;
+  }
+}
+
+.sidebar {
+  max-width: 175px;
+  min-width: 175px;
+  display: inline-block;
+  float: right;
+  @include media-query($on-palm) {
+    max-width: 1000px;
+  }
+}
+*/
+
+.blog-description {
+  color: #888;
+  text-align: justify;
+  font-size: 10pt;
+}
+
+.excerpt img {
+  max-width: 100px;
+  float: left;
+  padding: 7px;
+  display: none;
+}
+
+.excerpt h2, .excerpt h1, .excerpt h3 {
+  display: none;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.post-content img {
+  max-width: 300px;
+  border: 1px solid #999;
+  padding: 7px;
+  margin: 7px;
+  border-radius: 5px;
+}
+
+.share-icon {
+  float: right;
+  padding: 3px;
+  width: 32px;
+  border: none;
+  margin: 0px;
+}
+
+hr {
+  border: 1px solid #ddd;
+}

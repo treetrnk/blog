@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   tabletop RPGs. I have handcoded them all myself in my free time, so if you 
   enjoy them and want to see more of them, click the Donate button and buy me a 
   drink. Thanks for reading!
-baseurl: "/rpg/blog" # the subpath of your site, e.g. /blog
+baseurl: "/rpg/simple-blog" # the subpath of your site, e.g. /blog
 url: "http://nathanhare.net/" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
 twitter_username: treetrnk 

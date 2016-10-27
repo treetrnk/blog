@@ -6,12 +6,14 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">-->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="{{site.url}}rpg/css/header.css" />
-  <script>
+ <!--<link rel="stylesheet" type="text/css" href="{{site.url}}rpg/css/header.css" />-->
+  <script src="https://use.fontawesome.com/5c75cade5f.js"></script>
+  <link href="{{site.baseurl}}/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/css/custom.css" rel="stylesheet">
+  <script>/*
     $(function() {
       $('#header').load('{{site.url}}rpg/header.html');
     });
@@ -26,6 +28,6 @@
           title: "Visit " + this.href + " (click to open in a new window)"
         });
       });
-    });
+    }); */
   </script>
 </head>
