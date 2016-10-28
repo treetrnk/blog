@@ -13,19 +13,19 @@ layout: default
         <span class="post-meta pull-left" style="line-height: 32px; padding-right:10px;">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         </h2>
 
         <ul style="list-style:none;font-size:10pt;">
           <li class="excerpt">
             {% if post.excerpt %}
               {{ post.excerpt }} 
-              <a href="{{ post.url | prepend: site.baseurl }}" style="float:right;">
+              <a href="{{ post.url | prepend: site.url }}" style="float:right;">
                 ...read more</a>
             {% endif %}
             <span style="color:#666;"><i class="glyphicon glyphicon-tag"></i> &nbsp; </span>
             {% for tag in post.tags %}
-              <a class="tag_list_link label label-default" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
+              <a class="tag_list_link label label-default" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
             {% endfor %}
           </li>
         </ul>
@@ -35,6 +35,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
 
 </div>

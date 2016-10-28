@@ -4,7 +4,7 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <a href="{{site.baseurl}}"><span class="fa fa-chevron-left"></span> back</a><br /><br />
+    <a href="{{site.url}}"><span class="fa fa-chevron-left"></span> back</a><br /><br />
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
@@ -13,23 +13,23 @@ layout: default
     {{ content }}
   </div>
 
-  <a href="https://twitter.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-    <img src="{{ site.baseurl }}/images/twitter-share.png" class="share-icon" />
+  <a href="https://twitter.com/share?url=http://nathanhare.net{{site.url}}{{page.url}}">
+    <img src="{{ site.url }}/images/twitter-share.png" class="share-icon" />
   </a>
-  <a href="https://www.reddit.com/submit?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-    <img src="{{ site.baseurl }}/images/reddit-share.png" class="share-icon" />
+  <a href="https://www.reddit.com/submit?url=http://nathanhare.net{{site.url}}{{page.url}}">
+    <img src="{{ site.url }}/images/reddit-share.png" class="share-icon" />
   </a>
-  <a href="https://facebook.com/sharer.php?u=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-    <img src="{{ site.baseurl }}/images/facebook-share.png" class="share-icon" />
+  <a href="https://facebook.com/sharer.php?u=http://nathanhare.net{{site.url}}{{page.url}}">
+    <img src="{{ site.url }}/images/facebook-share.png" class="share-icon" />
   </a>
-  <a href="https://plus.google.com/share?url=http://nathanhare.net{{site.baseurl}}{{page.url}}">
-    <img src="{{ site.baseurl }}/images/googleplus-share.png" class="share-icon" />
+  <a href="https://plus.google.com/share?url=http://nathanhare.net{{site.url}}{{page.url}}">
+    <img src="{{ site.url }}/images/googleplus-share.png" class="share-icon" />
   </a>
   <br />
 
   <span style="color:#666;"><i class="glyphicon glyphicon-tag"></i> &nbsp; </span>
   {% for tag in page.tags %}
-  <a class="tag_list_link label label-default" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
+  <a class="tag_list_link label label-default" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a> &nbsp; 
   {% endfor %}
 
   <br /><br /><br />
@@ -58,6 +58,6 @@ layout: default
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-  <a href="{{site.baseurl}}"><span class="fa fa-chevron-left"></span> back</a><br /><br />
+  <a href="{{site.url}}"><span class="fa fa-chevron-left"></span> back</a><br /><br />
 
 </article>

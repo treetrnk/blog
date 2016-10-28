@@ -2,7 +2,7 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <img src="{{site.baseurl}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="max-width:200px;padding: 10px;"/>
+    <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="max-width:200px;padding: 10px;"/>
 
     <i class="fa fa-github"></i>
     <i class="fa fa-twitter"></i>
@@ -27,31 +27,30 @@
 
     <h4><i class="glyphicon glyphicon-tag"></i> All Tags</h4>
     <p>
-      <a href="{{site.baseurl}}/tag/conference" class="label label-default">conference</a>
-      <a href="{{site.baseurl}}/tag/dungeons" class="label label-default">dungeons</a>
-      <a href="{{site.baseurl}}/tag/fate" class="label label-default">fate</a>
-      <a href="{{site.baseurl}}/tag/fate-charsheet" class="label label-default">fate-charsheet</a>
-      <a href="{{site.baseurl}}/tag/gamers of summer" class="label label-default">gamers of summer</a>
-      <a href="{{site.baseurl}}/tag/masters of umdaar" class="label label-default">masters of umdaar</a>
-      <a href="{{site.baseurl}}/tag/no gm" class="label label-default">no gm</a>
-      <a href="{{site.baseurl}}/tag/oneshot" class="label label-default">oneshot</a>
-      <a href="{{site.baseurl}}/tag/play report" class="label label-default">play report</a>
-      <a href="{{site.baseurl}}/tag/review" class="label label-default">review</a>
-      <a href="{{site.baseurl}}/tag/rpg" class="label label-default">rpg</a>
-      <a href="{{site.baseurl}}/tag/storygen" class="label label-default">storygen</a>
-      <a href="{{site.baseurl}}/tag/tabletop simulator" class="label label-default">tabletop simulator</a>
-      <a href="{{site.baseurl}}/tag/the relics of acyrus" class="label label-default">the relics of acyrus</a>
-      <a href="{{site.baseurl}}/tag/thoughts" class="label label-default">thoughts</a>
-      <a href="{{site.baseurl}}/tag/update" class="label label-default">update</a>
-      <a href="{{site.baseurl}}/tag/we be goblins" class="label label-default">we be goblins</a>
-      <a href="{{site.baseurl}}/tag/web" class="label label-default">web</a>
-    <!---
-      {% for post in site.posts %}
-      {% for tag in post.tags %}
-      <a href="">{{ tag }}</a>
+      <a href="{{site.url}}/tag/conference" class="label label-default">conference</a>
+      <a href="{{site.url}}/tag/dungeons" class="label label-default">dungeons</a>
+      <a href="{{site.url}}/tag/fate" class="label label-default">fate</a>
+      <a href="{{site.url}}/tag/fate-charsheet" class="label label-default">fate-charsheet</a>
+      <a href="{{site.url}}/tag/gamers of summer" class="label label-default">gamers of summer</a>
+      <a href="{{site.url}}/tag/masters of umdaar" class="label label-default">masters of umdaar</a>
+      <a href="{{site.url}}/tag/no gm" class="label label-default">no gm</a>
+      <a href="{{site.url}}/tag/oneshot" class="label label-default">oneshot</a>
+      <a href="{{site.url}}/tag/play report" class="label label-default">play report</a>
+      <a href="{{site.url}}/tag/review" class="label label-default">review</a>
+      <a href="{{site.url}}/tag/rpg" class="label label-default">rpg</a>
+      <a href="{{site.url}}/tag/storygen" class="label label-default">storygen</a>
+      <a href="{{site.url}}/tag/tabletop simulator" class="label label-default">tabletop simulator</a>
+      <a href="{{site.url}}/tag/the relics of acyrus" class="label label-default">the relics of acyrus</a>
+      <a href="{{site.url}}/tag/thoughts" class="label label-default">thoughts</a>
+      <a href="{{site.url}}/tag/update" class="label label-default">update</a>
+      <a href="{{site.url}}/tag/we be goblins" class="label label-default">we be goblins</a>
+      <a href="{{site.url}}/tag/web" class="label label-default">web</a>
+      <!---
+      <hr />
+      {% for tag in page.tags %}
+        <a href="{{site.url}}/tag/{{tag}}" class="label label-default">{{ tag }}</a>
       {% endfor %}
-      {% endfor %}
-    --->
+      --->
     </p>
 
     <hr />
