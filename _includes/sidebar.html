@@ -4,8 +4,18 @@
 
     <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="max-width:200px;padding: 10px;"/>
 
-    <i class="fa fa-github"></i>
-    <i class="fa fa-twitter"></i>
+    <ul class="social-media-list list-unstyled">
+      {% if site.github_username %}
+        <li>
+          <a href="http://github.com/{{site.github_username}}"><i class="fa fa-github"></i> {{site.github_username}}</a>
+        </li>
+      {% endif %}
+      {% if site.github_username %}
+        <li>
+          <a href="http://twitter.com/{{site.twitter_username}}"><i class="fa fa-twitter"></i> {{site.twitter_username}}</a>
+        </li>
+      {% endif %}
+    </ul>
 
     <!--
     <ul class="social-media-list list-unstyled">
