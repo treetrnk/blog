@@ -7,6 +7,14 @@
 
     {% include header.html %}
 
+    {% if page.layout == 'post' %}
+      {% include post_banner.html %}
+    {% elsif page.path contains 'tag/' %}
+
+    {% else %}
+      {% include banner.html %}
+    {% endif %}
+
     <div class="container">
       <section class="col-md-9">
           {{ content }}
@@ -15,7 +23,6 @@
           {% include sidebar.html %}
       </aside>
     </div>
-
 
     {% include footer.html %}
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Fantasy Dungeons: Scenes and Scenarios"
 date:   2016-10-22 12:00:00 -0400 
+banner: dungeon_banner.jpg
 categories: 
 tags: 
 - rpg
