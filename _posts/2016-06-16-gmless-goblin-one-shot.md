@@ -2,6 +2,9 @@
 layout: post
 title:  "A GMless Goblin One-shot"
 date:   2016-06-16 12:08:00 -0400 
+banner: goblins-banner.png
+redirects: 
+- /blog/2016/06/16/gm-goblin-one-shot.html
 categories: 
 tags: 
 - rpg

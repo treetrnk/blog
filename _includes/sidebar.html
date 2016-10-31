@@ -2,7 +2,9 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="max-width:250px;padding: 0 10px 10px 0;"/>
+    <div class="col-md-12 col-sm-4 col-xs-6">
+      <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="padding: 0 10px 10px 0;"/>
+    </div>
 
     <ul class="social-media-list list-unstyled">
       {% if site.github_username %}
@@ -15,6 +17,9 @@
           <a href="http://twitter.com/{{site.twitter_username}}"><i class="fa fa-twitter"></i> {{site.twitter_username}}</a>
         </li>
       {% endif %}
+      <li>
+        <a href="{{ "/feed.xml" | prepend: site.url }}"><i class="fa fa-rss"></i> RSS</a>
+      </li>
     </ul>
 
     <!--

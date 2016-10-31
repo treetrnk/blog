@@ -22,4 +22,5 @@ twitter_username: treetrnk
 github_username:  treetrnk
 
 # Build settings
+redirects: yes
 markdown: kramdown

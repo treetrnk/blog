@@ -2,6 +2,9 @@
 layout: post
 title:  "Masters of Umdaar - Con Oneshot"
 date:   2016-09-06 8:00:00 -0400 
+banner: umdaar-banner.png
+redirects: 
+- /blog/2016/09/06/masters-of-umdaar.html
 categories: 
 tags: 
 - rpg
@@ -17,11 +20,11 @@ Over Labor Day weekend, I had the privilege of running Masters of Umdaar for the
 time. I ran the game at the [Gamers of Summer](http://www.gamersofsummer.net/) conference in 
 Harrisburg, PA. We only had two players since I didn't schedule it ahead of time, but we still 
 had a lot of fun. One player was Andy, who plays Filius, the Gnome Bard, in our 
-*[Relics of Acyrus](http://nathanhare.net/rpg/blog/tag/the%20relics%20of%20acyrus)* 
+*[Relics of Acyrus]({{site.url}}/tag/the%20relics%20of%20acyrus)* 
 campaign. The other player was a guy named Fred.<!--more-->
 
-[<img src="{{site.baseurl}}/images/fate-worlds-rise-up.jpg" class="right" />
-]({{site.baseurl}}/images/fate-worlds-rise-up.jpg)
+[<img src="{{site.url}}/images/fate-worlds-rise-up.jpg" class="right" />
+]({{site.url}}/images/fate-worlds-rise-up.jpg)
 
 ## The PCs
 Andy decided to go with a Sneaky undead mage named Abraxas. Fred went with a Flashy light being 
@@ -66,9 +69,9 @@ on it?**
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}">&#9664; Previous Session</a>
+<a href="{{site.url}}" class="right">Next Session &#9654;</a>
+<a href="{{site.url}}">&#9664; Previous Session</a>
 <br />
 ---->

@@ -2,6 +2,9 @@
 layout: post
 title:  "01 Escaping Echo Cave"
 date:   2016-05-29 6:07:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/05/29/escaping-echo-cave.html
 categories: 
 tags: 
 - rpg
@@ -22,8 +25,10 @@ In the tunnel, they saw Kyrie, a gnomish lady with black hear to her shoulders. 
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}/2016/06/01/pathfinding.html" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}/2016/05/27/session-00.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/06/01/pathfinding.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/05/27/session-00.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

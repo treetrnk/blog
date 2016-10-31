@@ -2,6 +2,8 @@
 layout: post
 title:  "Simulation vs. Storytelling RPGs"
 date:   2016-07-23 8:00:00 -0400 
+redirects: 
+- /blog/2016/07/23/storytelling-vs-simulation.html
 categories: 
 tags: 
 - rpg
@@ -41,8 +43,8 @@ The mechanics, combined with player decisions make up the players' side of the s
 not to say that this is a bad thing. It is not. Many people, including me, love playing games 
 in this way. It is just a different approach.
 
-[<img src="{{site.baseurl}}/images/compel-meme.png" class="left" alt="Fate RPG Compel" />
-]({{site.baseurl}}/images/compel-meme.png)
+[<img src="{{site.url}}/images/compel-meme.png" class="left" alt="Fate RPG Compel" />
+]({{site.url}}/images/compel-meme.png)
 Fate, on the other hand, focuses on the story. Instead of having unique rules to simulate every 
 situation, you have generalized rules. These generalized rules work because they are rules to 
 create story rather than simulate a reality. The Fate Point Economy focuses on creating a story 

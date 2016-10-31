@@ -2,6 +2,9 @@
 layout: post
 title:  "09 The Forgotten Tunnels"
 date:   2016-06-23 12:08:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/06/23/the-forgotten-tunnels.html
 categories: 
 tags: 
 - rpg
@@ -36,8 +39,8 @@ Fort Greyspire, so they figured they must be close. Suddenly up ahead, they saw 
 light. It was dim at first but steadily grew brighter. It then stopped and a low grumble 
 of stone moving could be heard. The sound then stopped and the light disappeared.
 
-[<img src="{{site.baseurl}}/images/spider-attack.jpg" class="right" />
-]({{site.baseurl}}/images/spider-attack.jpg)
+[<img src="{{site.url}}/images/spider-attack.jpg" class="right" />
+]({{site.url}}/images/spider-attack.jpg)
 
 Unsure of what might have caused the lights and sounds, the group approached quietly, 
 allowing Aurora to investigate without disturbing anything. She snuck ahead and approached
@@ -62,8 +65,8 @@ for conceding. I looked into it afterwards though, and that's not really the cas
 Conceding allows you to avoid the worst parts of your fate. So I left the ending to the 
 fight a little vague, because we are still deciding how we want to continue.
 
-[<img src="{{site.baseurl}}/images/run-away.jpg" class="right" width="150" />
-]({{site.baseurl}}/images/run-away.jpg)
+[<img src="{{site.url}}/images/run-away.jpg" class="right" width="150" />
+]({{site.url}}/images/run-away.jpg)
 
 In addition to the increased difficulty, I used the [Fate Adventure Worksheet
 ](https://mechanteanemone.wordpress.com/2014/01/14/fate-adventure-worksheet/) 
@@ -73,7 +76,7 @@ for NPC/enemy stats. I had Combat and Interaction at +4, Lore at +2, and Explora
 and interaction being the same. They only dealt the spiders 2 stress in total. After the
 session, my wife drew the picture to the right in response to the invincible spiders in
 the tunnels. From now on, I will likely be using the NPC creation method that I used in 
-my game [without a GM]({{site.baseurl}}/2016/06/20/fate-without-a-gm.html). Other than 
+my game [without a GM]({{site.url}}/2016/06/20/fate-without-a-gm.html). Other than 
 that, it went really well. **Has anyone else tried the [Fate Adventure Worksheet
 ](https://mechanteanemone.wordpress.com/2014/01/14/fate-adventure-worksheet/)?
 How did it go?**
@@ -81,8 +84,10 @@ How did it go?**
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}/2016/08/17/temple-of-divinity.html" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}/2016/06/14/real-tobias.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/08/17/temple-of-divinity.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/06/14/real-tobias.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

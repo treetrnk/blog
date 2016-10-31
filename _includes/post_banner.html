@@ -1,12 +1,10 @@
 <!--<div class="banner"><img src="{{site.baseurl}}/images/banner.png" /></div>-->
 {% if page.banner %}
-<div class="jumbotron" id="postbanner" style="background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url({{site.url}}/images/{{page.banner}});">
+<div class="jumbotron hidden-print" style="background-image: url({{site.url}}/images/banners/{{page.banner}}); height:375px;">
 {% else %}
-<div class="jumbotron" id="banner">
+<div class="jumbotron hidden-print" style="background-image: url({{site.url}}/images/banners/gameplay-banner.png);height:375px;">
 {% endif %}
-  <div class="container">
-    <br /><br /><br /><br /><br />
-    <br /><br /><br /><br /><br /><br />
+  <div class="container hidden-print">
   </div>
 </div>
 

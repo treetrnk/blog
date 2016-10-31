@@ -2,6 +2,9 @@
 layout: post
 title:  "10 The Temple of Divinity"
 date:   2016-08-17 10:28:22 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/08/17/temple-of-divinity.html
 categories: 
 tags: 
 - rpg
@@ -35,8 +38,8 @@ bottom of the note was Old Man Berkle's signature.
 
 ### An Old Friend
 
-[<img src="{{site.baseurl}}/images/new-setup.jpg" class="right" />
-]({{site.baseurl}}/images/new-setup.jpg)
+[<img src="{{site.url}}/images/new-setup.jpg" class="right" />
+]({{site.url}}/images/new-setup.jpg)
 
 The group continued forward to a break in the tunnels. A soft red glow dimly lit the
 opening. Filius crept ahead to peer out of the tunnel and saw that a section of the
@@ -78,8 +81,8 @@ room.
 
 ### The Shadow Knight
 
-[<img src="{{site.baseurl}}/images/shrine-of-divinity.jpg" class="left" />
-]({{site.baseurl}}/images/shrine-of-divinity.jpg)
+[<img src="{{site.url}}/images/shrine-of-divinity.jpg" class="left" />
+]({{site.url}}/images/shrine-of-divinity.jpg)
 
 The smoke was thick in this room. A statue of a sphinx stood 25 feet tall in the middle 
 of the room and the alter in front of them, where the artifact was expected to be, laid
@@ -105,8 +108,10 @@ final confrontation until next time.
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<!--<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>-->
-<a href="{{site.baseurl}}/2016/06/23/the-forgotten-tunnels.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/10/07/the-shadow-knight.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/06/23/the-forgotten-tunnels.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

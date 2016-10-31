@@ -2,6 +2,8 @@
 layout: post
 title:  "Fate Core Character Sheet"
 date:   2016-05-27 
+redirects:
+- /blog/2016/05/27/fate-core-charsheet.html
 categories: 
 tags:
 - web

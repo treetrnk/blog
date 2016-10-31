@@ -2,6 +2,8 @@
 layout: post
 title:  "Fate Without a GM"
 date:   2016-06-20 1:30:00 -0400 
+redirects: 
+- /blog/2016/06/20/fate-without-a-gm.html
 categories: 
 tags: 
 - rpg
@@ -10,7 +12,7 @@ tags:
 ---
 
 I recently played in a game where we did not have a GM. You can find the play report 
-[here]({{site.baseurl}}/2016/06/16/gmless-goblin-one-shot.html). I wrote up some 
+[here]({{site.url}}/2016/06/16/gmless-goblin-one-shot.html). I wrote up some 
 rules hacked together from other GMless systems I have read, and it went surprisingly 
 well. The other two players and I really enjoyed the game, so I thought I would post 
 them online for others to critique and improve upon. <!--more--> Below is a link to the 
@@ -19,7 +21,7 @@ them online for others to critique and improve upon. <!--more--> Below is a link
 to make the game work. Please feel to comment here and on the document with 
 suggestions. And let me know if you like it!
 
-[ **No-GM Fate** <br />  ![No-GM Fate]({{site.baseurl}}/images/no-gm-fate.png)](https://docs.google.com/document/d/1ColkZw-N6vt5IBpghQEYLDW9JDnAPcHxZ6euhDlVJaY/edit?usp=sharing)
+[ **No-GM Fate** <br />  ![No-GM Fate]({{site.url}}/images/no-gm-fate.png)](https://docs.google.com/document/d/1ColkZw-N6vt5IBpghQEYLDW9JDnAPcHxZ6euhDlVJaY/edit?usp=sharing)
 
 ---
 

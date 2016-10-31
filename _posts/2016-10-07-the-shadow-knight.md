@@ -2,6 +2,9 @@
 layout: post
 title:  "11 The Battle of the Shadow Knight"
 date:   2016-10-07 19:00:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/10/07/the-shadow-knight.html
 categories: 
 tags: 
 - rpg
@@ -12,15 +15,15 @@ tags:
 ---
 
 We finally reached a major milestone in our 
-*[Relics of Acyrus]({{site.baseurl}}/tag/the relics of acyrus/)* campaign
+*[Relics of Acyrus]({{site.url}}/tag/the relics of acyrus/)* campaign
 and it all came down to a final battle with the villain who had been
 orchestrating all of the evil plots with the goblins and in Beowood. The
-[previous session]({{site.baseurl}}/2016/08/17/temple-of-divinity.html) 
+[previous session]({{site.url}}/2016/08/17/temple-of-divinity.html) 
 was spent getting to the Temple of Divinity and since
 time was running short, we left the final scene for our next meeting.<!--more-->
 
-[<img src="{{site.baseurl}}/images/shadow-knight-and-friends.png" class="right" />
-]({{site.baseurl}}/images/shadow-knight-and-friends.png)
+[<img src="{{site.url}}/images/shadow-knight-and-friends.png" class="right" />
+]({{site.url}}/images/shadow-knight-and-friends.png)
 
 The heroes left off in the Temple of Divinity. They overcame all of the temple's
 various traps and puzzles and reached the final room where the Relic of Divinity
@@ -49,8 +52,8 @@ and in cover behind the statue's head. The PCs had to be in a zone right next to
 statue to even attempt a shot at him. The goblin archers mostly laid down cover
 fire to keep the heroes at the far end of the room.
 
-[<img src="{{site.baseurl}}/images/shadow-knight-setup.png" class="left" />
-]({{site.baseurl}}/images/shadow-knight-setup.png)
+[<img src="{{site.url}}/images/shadow-knight-setup.png" class="left" />
+]({{site.url}}/images/shadow-knight-setup.png)
 
 While that was going on I also had 4 goblins on the ground (2 mobs of 2). These
 guys were also pretty easy kills, but they hung back and took on PCs
@@ -98,9 +101,10 @@ fight? What would you have done differently?**
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 <!---
-<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>
+<a href="{{site.url}}" class="right">Next Session &#9654;</a>
 --->
-<a href="{{site.baseurl}}/2016/08/17/temple-of-divinity.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/08/17/temple-of-divinity.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

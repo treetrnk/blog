@@ -2,6 +2,9 @@
 layout: post
 title:  "03 The Battle for Fort Greyspire"
 date:   2016-06-03 6:17:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/06/03/battle-for-fort-greyspire.html
 categories: 
 tags: 
 - rpg
@@ -15,14 +18,14 @@ Fillius, Desmond, Aurora, and Eb arrived to Fort Greyspire just in time to warn 
 
 # The Fight
 
-[<img src="{{site.baseurl}}/images/fort-greyspire.jpg" style="Float:right;width:300px;padding:7px;" />]({{site.baseurl}}/images/fort-greyspire.jpg)
+[<img src="{{site.url}}/images/fort-greyspire.jpg" style="Float:right;width:300px;padding:7px;" />]({{site.url}}/images/fort-greyspire.jpg)
 I ran the fight as a normal conflict for the most part. The PCs all acted as normal, the goblins were mainly using teamwork rules. I modified it a little bit so that every two goblins involved in the action gave a +1 bonus. It was still plenty difficult, but it made the battle a little bit more manageable.
 
 I set up various complications throughout the fight as well. There were two fighter mobs (6 goblins in each), two archer mobs (5 goblins in each), a bomber mob (6 goblins), and three individual goblin leaders that hung back and barked orders. The fighter mobs had grappling hooks and planned scaling the walls to attack inside the fort and open the gate.
 
 One group of archers started and stayed in the battlefield firing at whatever was needed and the other archer mob scaled the mountain and didn't show up until the second exchange. Ironically, this happened at the same time as the ranger PC climbed the same mountain, so a battle was had on top of the cliff.
 
-[<img src="{{site.baseurl}}/images/fort-greyspire-labeled.png" style="Float:right;width:300px;padding:7px;" />]({{site.baseurl}}/images/fort-greyspire-labeled.png)
+[<img src="{{site.url}}/images/fort-greyspire-labeled.png" style="Float:right;width:300px;padding:7px;" />]({{site.url}}/images/fort-greyspire-labeled.png)
 The bomber mob had bombs, made by the blackmailed alchemist, and set up a barricade that they hid behind and threw bombs at the gate. This kind of worked like a contest under fire. Basically, the goblins needed to successfully bomb the gates 3 times to blow them open. They managed to 2 successes before all of the bombs were destroyed.
 
 I set up the Greyspire Rangers as an aspect, rather than individual NPCs, with 2 free invokes to start since the PCs were able to warn them. Then, the PCs could invoke that aspect to say that the rangers helped in an action. The bard was able to rally them a couple of times as well to add more invokes. It was a super simple way to handle them that kept the spotlight on the PCs.
@@ -53,9 +56,11 @@ Roughly from left to right in the pictures above:
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}/2016/06/04/aftermath.html" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}/2016/06/01/pathfinding.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/06/04/aftermath.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/06/01/pathfinding.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />
 

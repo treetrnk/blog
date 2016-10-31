@@ -2,6 +2,9 @@
 layout: post
 title:  "04 The Aftermath"
 date:   2016-06-04 6:39:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/06/04/aftermath.html
 categories: 
 tags: 
 - rpg
@@ -14,8 +17,10 @@ The party, weary from battle, took some time to rest and then spoke with Gerald 
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}/2016/06/07/visiting-stonehollow.html" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}/2016/06/03/battle-for-fort-greyspire.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/06/07/visiting-stonehollow.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/06/03/battle-for-fort-greyspire.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

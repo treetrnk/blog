@@ -2,6 +2,9 @@
 layout: post
 title:  "08 The Real Tobias Bender"
 date:   2016-06-14 7:03:00 -0400 
+banner: acyrus-banner.png
+redirects: 
+- /blog/2016/06/14/real-tobias.html
 categories: 
 tags: 
 - rpg
@@ -16,8 +19,10 @@ Traveling through the tunnels was uneventful for several hours until the group f
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}/2016/06/23/the-forgotten-tunnels.html" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}/2016/06/13/meeting-with-tobias.html">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/06/23/the-forgotten-tunnels.html" class="right btn btn-default">
+  Next Session <i class="fa fa-caret-right"></i></a>
+<a href="{{site.url}}/2016/06/13/meeting-with-tobias.html" class="btn btn-default">
+  <i class="fa fa-caret-left"></i> Previous Session</a>
 <br />

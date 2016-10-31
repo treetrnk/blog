@@ -2,6 +2,8 @@
 layout: post
 title:  "Tabletop Simulator for Fate - Review"
 date:   2016-07-06 10:00:00 -0400 
+redirects: 
+- /blog/2016/07/06/tabletop-simulator-review.html
 categories: 
 tags: 
 - rpg
@@ -32,9 +34,9 @@ book. One change that I made was that we ran it in Fate Accelerated rather than 
 This change was made to make character creation quicker. I had to write my own stats 
 for NPCs on the fly, but it wasn't hard to quickly convert them.
 
-[<img src="{{site.baseurl}}/images/tabletop-sim-2.png" width="200" class="left" 
+[<img src="{{site.url}}/images/tabletop-sim-2.png" width="200" class="left" 
 alt="The game in progress" />
-]({{site.baseurl}}/images/tabletop-sim-2.png)
+]({{site.url}}/images/tabletop-sim-2.png)
 **(Warning! This paragraph contains spoilers)** The adventure is all about this artifact 
 which is held in a mysterious tower in the middle of the slums of a city. In the tower
 lives a powerful sorcerer who only leaves during the night of the full moon. Before 
@@ -69,9 +71,9 @@ things, delete, and pull props out of thin air. There is a massive amount of bui
 in tools and props, but there is also an infinite number of player made content that
 can be thrown into any Fate game.
 
-[<img src="{{site.baseurl}}/images/tabletop-sim-1.png" width="200" class="right" 
+[<img src="{{site.url}}/images/tabletop-sim-1.png" width="200" class="right" 
 alt="Map of the garden surrounding the tower" />
-]({{site.baseurl}}/images/tabletop-sim-1.png)
+]({{site.url}}/images/tabletop-sim-1.png)
 
 ### Tools
 

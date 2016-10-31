@@ -2,8 +2,10 @@
 layout: post
 title:  "Fantasy Dungeons: Scenes and Scenarios"
 date:   2016-10-22 12:00:00 -0400 
-banner: dungeon_banner.jpg
+banner: dungeons-banner.png
 categories: 
+redirects: 
+- /blog/2016/10/22/dungeons-scenes-and-scenarios.html
 tags: 
 - rpg
 - fate
@@ -112,9 +114,9 @@ think of any other examples of scene-based dungeons?**
 ---
 
 If you are jumping in on the middle of this story, check out the 
-<a href="{{site.baseurl}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
+<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
 
-<a href="{{site.baseurl}}" class="right">Next Session &#9654;</a>
-<a href="{{site.baseurl}}">&#9664; Previous Session</a>
+<a href="{{site.url}}" class="right">Next Session &#9654;</a>
+<a href="{{site.url}}">&#9664; Previous Session</a>
 <br />
 ---->
