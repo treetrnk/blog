@@ -109,14 +109,9 @@ necessarily the only or even the best way to run dungeons in Fate. Just thoughts
 from one Game Master to another. **How have your Fate dungeons gone? Can you 
 think of any other examples of scene-based dungeons?**
 
-
-<!----
 ---
 
-If you are jumping in on the middle of this story, check out the 
-<a href="{{site.url}}/2016/05/27/setup.html">Game Creation</a> play report.<br />
-
-<a href="{{site.url}}" class="right">Next Session &#9654;</a>
-<a href="{{site.url}}">&#9664; Previous Session</a>
+<a href="{{site.url}}/2016/10/28/fantasy-dungeons-traps.html" class="btn btn-default right">
+  Next in Series <i class="fa fa-caret-right"></i></a>
 <br />
----->
+<br />
