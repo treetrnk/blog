@@ -6,7 +6,7 @@
       <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="padding: 0 10px 10px 0;"/>
     </div>
 
-    <ul class="social-media-list list-unstyled">
+    <ul class="social-media-list list-unstyled col-md-12 col-sm-8 col-xs-6">
       {% if site.github_username %}
         <li>
           <a href="http://github.com/{{site.github_username}}"><i class="fa fa-github"></i> {{site.github_username}}</a>
@@ -20,8 +20,19 @@
       <li>
         <a href="{{ "/feed.xml" | prepend: site.url }}"><i class="fa fa-rss"></i> RSS</a>
       </li>
+      <li>
+      </li>
     </ul>
 
+    <form style="padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=RpgStuffBlog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+      <div class="input-group">
+        <input type="email" class="form-control" placeholder="Email Address" name="email" />
+        <button type="submit" class="btn btn-primary" style="margin-top:5px;">Subscribe</button>
+        <input type="hidden" value="RpgStuffBlog" name="uri"/>
+        <input type="hidden" name="loc" value="en_US"/>
+        <hr style="margin: 7px 0 7px 0" />
+      </div>
+    </form>
     <!--
     <ul class="social-media-list list-unstyled">
       {% if site.github_username %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fantasy Dungeons: Scenes and Scenarios"
+title:  "Dungeons in Fate: Scenes and Scenarios"
 date:   2016-10-22 12:00:00 -0400 
 banner: dungeons-banner.png
 categories: 
