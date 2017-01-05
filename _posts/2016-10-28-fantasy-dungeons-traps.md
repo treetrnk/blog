@@ -137,9 +137,7 @@ list, so check back for more next week!
 
 ---
 
-<!---
-<a href="{{site.url}}" class="btn btn-default right">Next in Series <i class="fa fa-caret-left"></i></a>
---->
+<a href="{{site.url}}/2016/11/22/fate-dungeon-secrets.html" class="btn btn-default right">Next in Series <i class="fa fa-caret-left"></i></a>
 <a href="{{site.url}}/2016/10/22/dungeons-scenes-and-scenarios.html" class="btn btn-default">
   <i class="fa fa-caret-left"></i> Previous in Series</a>
 <br />
