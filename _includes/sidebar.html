@@ -2,11 +2,11 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <div class="col-md-12 col-sm-4 col-xs-6">
-      <img src="{{site.url}}/images/nathan-hare.png" class="img-responsive img-circle pull-left" style="padding: 0 10px 10px 0;"/>
+    <div class="col-md-6 col-sm-4 col-xs-6">
+      <img src="{{site.url}}/images/nathan-hare2.png" class="img-responsive img-circle pull-left" style="padding: 0 10px 10px 0;"/>
     </div>
 
-    <ul class="social-media-list list-unstyled col-md-12 col-sm-8 col-xs-6">
+    <ul class="social-media-list list-unstyled col-md-6 col-sm-8 col-xs-6">
       {% if site.github_username %}
         <li>
           <a href="http://github.com/{{site.github_username}}"><i class="fa fa-github"></i> {{site.github_username}}</a>
@@ -24,15 +24,6 @@
       </li>
     </ul>
 
-    <form style="padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=RpgStuffBlog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-      <div class="input-group">
-        <input type="email" class="form-control" placeholder="Email Address" name="email" />
-        <button type="submit" class="btn btn-primary" style="margin-top:5px;">Subscribe</button>
-        <input type="hidden" value="RpgStuffBlog" name="uri"/>
-        <input type="hidden" name="loc" value="en_US"/>
-        <hr style="margin: 7px 0 7px 0" />
-      </div>
-    </form>
     <!--
     <ul class="social-media-list list-unstyled">
       {% if site.github_username %}
@@ -48,38 +39,72 @@
       {% endif %}
     </ul>
     -->
+    
+    <div class="col-xs-12">
+        <h4>My Projects</h4>
+      <ul>
+        <li>
+          <b><a href="http://www.drivethrurpg.com/product/199567/High-Fantasy-Magic-A-Simple-Magic-System-for-Fate-Core--Accelerated" target="_blank">High Fantasy Magic</a></b>
+        </li>
+        <li>
+          <b><a href="http://www.drivethrurpg.com/product/204660/Fate-NPC-Cards" target="_blank">Fate NPC Cards</a></b>
+        </li>
+        <li>
+          <b><a href="http://www.drivethrurpg.com/product/204653/Fate-PC-Tracker" target="_blank">Fate PC Tracker</a></b>
+        </li>
+        <li>
+          <a href="http://www.drivethrurpg.com/browse/pub/10796/Nathan-Hare" target="_blank">DriveThruRPG Publisher Page</a>
+        </li>
+      </ul>
 
-    <p class="blog-description">{{ site.description }}</p>
+      <p class="blog-description">{{ site.description }}</p>
+    </div>
 
-    <h4><i class="glyphicon glyphicon-tag"></i> All Tags</h4>
-    <p>
-      <a href="{{site.url}}/tag/conference" class="label label-default">conference</a>
-      <a href="{{site.url}}/tag/dungeons" class="label label-default">dungeons</a>
-      <a href="{{site.url}}/tag/fate" class="label label-default">fate</a>
-      <a href="{{site.url}}/tag/fate-charsheet" class="label label-default">fate-charsheet</a>
-      <a href="{{site.url}}/tag/gamers of summer" class="label label-default">gamers of summer</a>
-      <a href="{{site.url}}/tag/masters of umdaar" class="label label-default">masters of umdaar</a>
-      <a href="{{site.url}}/tag/no gm" class="label label-default">no gm</a>
-      <a href="{{site.url}}/tag/oneshot" class="label label-default">oneshot</a>
-      <a href="{{site.url}}/tag/play report" class="label label-default">play report</a>
-      <a href="{{site.url}}/tag/review" class="label label-default">review</a>
-      <a href="{{site.url}}/tag/rpg" class="label label-default">rpg</a>
-      <a href="{{site.url}}/tag/storygen" class="label label-default">storygen</a>
-      <a href="{{site.url}}/tag/tabletop simulator" class="label label-default">tabletop simulator</a>
-      <a href="{{site.url}}/tag/the relics of acyrus" class="label label-default">the relics of acyrus</a>
-      <a href="{{site.url}}/tag/thoughts" class="label label-default">thoughts</a>
-      <a href="{{site.url}}/tag/update" class="label label-default">update</a>
-      <a href="{{site.url}}/tag/we be goblins" class="label label-default">we be goblins</a>
-      <a href="{{site.url}}/tag/web" class="label label-default">web</a>
-      <!---
+    <div class="col-xs-12">
+      <form style="padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=RpgStuffBlog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+        <div class="input-group">
+          <hr style="margin: 7px 0 7px 0" />
+          <input type="email" class="form-control" placeholder="Email Address" name="email" />
+          <button type="submit" class="btn btn-primary" style="margin-top:5px;">Subscribe</button>
+          <input type="hidden" value="RpgStuffBlog" name="uri"/>
+          <input type="hidden" name="loc" value="en_US"/>
+          <hr style="margin: 7px 0 7px 0" />
+        </div>
+      </form>
+    </div>
+
+    <div class="col-xs-12">
+      <h4><i class="glyphicon glyphicon-tag"></i> All Tags</h4>
+      <p>
+        <a href="{{site.url}}/tag/conference" class="label label-default">conference</a>
+        <a href="{{site.url}}/tag/dungeons" class="label label-default">dungeons</a>
+        <a href="{{site.url}}/tag/fate" class="label label-default">fate</a>
+        <a href="{{site.url}}/tag/fate-charsheet" class="label label-default">fate-charsheet</a>
+        <a href="{{site.url}}/tag/gamers of summer" class="label label-default">gamers of summer</a>
+        <a href="{{site.url}}/tag/masters of umdaar" class="label label-default">masters of umdaar</a>
+        <a href="{{site.url}}/tag/mouse guard" class="label label-default">mouse guard</a>
+        <a href="{{site.url}}/tag/no gm" class="label label-default">no gm</a>
+        <a href="{{site.url}}/tag/oneshot" class="label label-default">oneshot</a>
+        <a href="{{site.url}}/tag/play report" class="label label-default">play report</a>
+        <a href="{{site.url}}/tag/review" class="label label-default">review</a>
+        <a href="{{site.url}}/tag/rpg" class="label label-default">rpg</a>
+        <a href="{{site.url}}/tag/storygen" class="label label-default">storygen</a>
+        <a href="{{site.url}}/tag/tabletop simulator" class="label label-default">tabletop simulator</a>
+        <a href="{{site.url}}/tag/the relics of acyrus" class="label label-default">the relics of acyrus</a>
+        <a href="{{site.url}}/tag/thoughts" class="label label-default">thoughts</a>
+        <a href="{{site.url}}/tag/update" class="label label-default">update</a>
+        <a href="{{site.url}}/tag/we be goblins" class="label label-default">we be goblins</a>
+        <a href="{{site.url}}/tag/web" class="label label-default">web</a>
+        <!---
+        <hr />
+        {% for tag in page.tags %}
+          <a href="{{site.url}}/tag/{{tag}}" class="label label-default">{{ tag }}</a>
+        {% endfor %}
+        --->
+      </p>
+
       <hr />
-      {% for tag in page.tags %}
-        <a href="{{site.url}}/tag/{{tag}}" class="label label-default">{{ tag }}</a>
-      {% endfor %}
-      --->
-    </p>
-
-    <hr />
-    <br />
+      <br />
+    </div>
 
   </div>

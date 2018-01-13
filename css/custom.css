@@ -157,3 +157,10 @@ input.gsc-search-button,
   overflow: hidden;
 }
 
+.attribution {
+  font-style: italic;
+  font-size: 10pt;
+  display: block;
+  text-align: center;
+  width: 100%;
+}
